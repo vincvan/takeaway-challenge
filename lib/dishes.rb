@@ -6,4 +6,5 @@ class Dish
 		@name = name
 		@price = price
 	end
+
 end
